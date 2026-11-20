@@ -32,7 +32,7 @@ Una selección de los proyectos presentados en mi [portfolio](https://egbravo.co
 | **[PODIFY](https://podify.egbravo.com/)** | Facilitar el contacto y la solicitud de citas para podología a domicilio en Málaga. | Web de servicio. |
 | **[EXALCO-BIO](https://exalcobio.egbravo.com/)** | Presentar un catálogo hortofrutícola ecológico y facilitar solicitudes de oferta. | Web corporativa bilingüe. |
 
-Mi participación conecta necesidades de negocio, definición funcional y construcción de soluciones con apoyo de herramientas de IA. El uso de tecnologías como React o Cloudflare en estos proyectos no implica experiencia profesional como desarrollador.
+Mi participación conecta necesidades de negocio, definición funcional y construcción de soluciones con apoyo de herramientas de IA.
 
 ## Laboratorios de ciberseguridad
 
